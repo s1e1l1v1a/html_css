@@ -1,0 +1,56 @@
+.container_12{
+  background: pink;
+  margin-top: 20px;
+}
+#footcontainer{
+  background-color: orange;
+}
+#cont{
+  background-color: white;
+}
+
+.image{
+width:10%;
+height:70px;
+margin: 0;
+}
+li a{
+  text-decoration: none;
+}
+  .head {
+    position: relative;
+    top:-50px;
+float: right;
+display:inline;
+}
+li a:hover{
+  font-size: 20px;
+}
+
+header{
+
+position: fixed;
+ float: center;
+ background:orange;
+ width:100%;
+height:70px;
+font-family: cursive;
+
+}
+.foot{
+  text-decoration:underline;
+  color: green;
+}
+
+
+.main
+{
+  margin:30px 0;
+  font-family:papyrus;
+  margin-top:-60px;
+}
+img{
+	width:100%;
+height:250px;
+margin-top: 80px;
+}
